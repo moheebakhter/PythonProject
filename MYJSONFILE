@@ -1,0 +1,7 @@
+Food_name,Price,Category,Main_ingredient,Quantity,Status,Country,Sale Price
+Biryani,250,Desi,Rice,5,Available,Pakistan,200
+Zinger,300,Fast Food,Chicken,7,Available,USA,250
+Pizza,400,Fast Food,Dough,4,Not Available,USA,350
+Finger Fish,800,Sea Food,Fish,4,Available,Pakistan,700
+Daal Chawal,200,Desi,Daal,6,Available,Pakistan,150
+Karahi,1500,Desi,mutton,3,Available,Pakistan,1400

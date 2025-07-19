@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <Food_name>Biryani</Food_name>
+    <Price>250</Price>
+    <Category>Desi</Category>
+    <Main_ingredient>Rice</Main_ingredient>
+    <Quantity>5</Quantity>
+    <Status>Available</Status>
+    <Country>Pakistan</Country>
+    <Sale_Price>200</Sale_Price>
+  </row>
+  <row>
+    <index>1</index>
+    <Food_name>Zinger</Food_name>
+    <Price>300</Price>
+    <Category>Fast Food</Category>
+    <Main_ingredient>Chicken</Main_ingredient>
+    <Quantity>7</Quantity>
+    <Status>Available</Status>
+    <Country>USA</Country>
+    <Sale_Price>250</Sale_Price>
+  </row>
+  <row>
+    <index>2</index>
+    <Food_name>Pizza</Food_name>
+    <Price>400</Price>
+    <Category>Fast Food</Category>
+    <Main_ingredient>Dough</Main_ingredient>
+    <Quantity>4</Quantity>
+    <Status>Not Available</Status>
+    <Country>USA</Country>
+    <Sale_Price>350</Sale_Price>
+  </row>
+  <row>
+    <index>3</index>
+    <Food_name>Finger Fish</Food_name>
+    <Price>800</Price>
+    <Category>Sea Food</Category>
+    <Main_ingredient>Fish</Main_ingredient>
+    <Quantity>4</Quantity>
+    <Status>Available</Status>
+    <Country>Pakistan</Country>
+    <Sale_Price>700</Sale_Price>
+  </row>
+  <row>
+    <index>4</index>
+    <Food_name>Daal Chawal</Food_name>
+    <Price>200</Price>
+    <Category>Desi</Category>
+    <Main_ingredient>Daal</Main_ingredient>
+    <Quantity>6</Quantity>
+    <Status>Available</Status>
+    <Country>Pakistan</Country>
+    <Sale_Price>150</Sale_Price>
+  </row>
+  <row>
+    <index>5</index>
+    <Food_name>Karahi</Food_name>
+    <Price>1500</Price>
+    <Category>Desi</Category>
+    <Main_ingredient>mutton</Main_ingredient>
+    <Quantity>3</Quantity>
+    <Status>Available</Status>
+    <Country>Pakistan</Country>
+    <Sale_Price>1400</Sale_Price>
+  </row>
+</data>
